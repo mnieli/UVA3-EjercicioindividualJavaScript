@@ -1,1 +1,1 @@
-# UVA3-EjercicioindividualJavaScript-
+# UVA3-EjercicioindividualJavaScript
